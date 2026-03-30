@@ -45,7 +45,7 @@ with st.sidebar:
 # --- PÁGINA: INICIO ---
 if st.session_state.pagina == "🏠 Inicio":
     st.title("🚀 Panel de Control Personal")
-    st.write("Bienvenido al sistema. Seleccione una acción rápida:")
+    st.write("Bienvenido Luis Rafael. Seleccione una acción rápida:")
     
     col1, col2, col3 = st.columns(3)
     with col1:
